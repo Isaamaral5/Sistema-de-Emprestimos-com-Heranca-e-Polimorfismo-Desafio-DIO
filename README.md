@@ -1,2 +1,2 @@
 # Sistema-de-Emprestimos-com-Heranca-e-Polimorfismo-Desafio-DIO
-Projeto feito para treinar os meus conhecimentos em Programação Orientada a Objetos (POO) em Java. 
+Repositório criado para armazenar o código completo do "Desafio de Código: Sistema de Empréstimos com Herança e Polimorfismo" do Bootcamp Java DIO.
